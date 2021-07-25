@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1617061359 source:c:\users\dione\documents\teste\listadealunos\inicializar.c
+	"tipos.h"
+
+1617144604 c:\users\dione\documents\teste\listadealunos\tipos.h
+	<stdio.h>
+	<conio.h>
+
+1617145636 source:c:\users\dione\documents\teste\listadealunos\inseriraluno.c
+	"tipos.h"
+
+1617144604 source:c:\users\dione\documents\teste\listadealunos\apresentaraluno.c
+	"tipos.h"
+
+1617146226 source:c:\users\dione\documents\teste\listadealunos\main.c
+	"tipos.h"
+
+1617146903 source:c:\users\dione\documents\teste\listadealunos\juncaoalunos.c
+	"tipos.h"
+
+1617144957 source:c:\users\dione\documents\teste\listadealunos\inicializaraux.c
+	"tipos.h"
+

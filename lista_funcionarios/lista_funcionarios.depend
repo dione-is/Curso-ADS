@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1616551728 source:c:\users\dione\documents\teste\lista_funcionarios\apresentar.c
+	"tipos.h"
+
+1616541606 c:\users\dione\documents\teste\lista_funcionarios\tipos.h
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<stdbool.h>
+
+1616541606 source:c:\users\dione\documents\teste\lista_funcionarios\excluir.c
+	"tipos.h"
+
+1616454175 source:c:\users\dione\documents\teste\lista_funcionarios\inicializar.c
+	"tipos.h"
+
+1616544265 source:c:\users\dione\documents\teste\lista_funcionarios\main.c
+	"tipos.h"
+
+1616454175 source:c:\users\dione\documents\teste\lista_funcionarios\pesquisas.c
+	"tipos.h"
+
+1616544265 source:c:\users\dione\documents\teste\lista_funcionarios\inserir.c
+	"tipos.h"
+
+1617061359 source:c:\users\dione\documents\teste\lista_funcionarios\ordenar_salario.c
+	"tipos.h"
+

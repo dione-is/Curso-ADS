@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1622744011 source:c:\users\dione\documents\teste\listaencadeada\apresentar.c
+	"tipos.h"
+
+1623108770 c:\users\dione\documents\teste\listaencadeada\tipos.h
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+
+1620084139 source:c:\users\dione\documents\teste\listaencadeada\inicializar.c
+	"tipos.h"
+
+1622744011 source:c:\users\dione\documents\teste\listaencadeada\inserir.c
+	"tipos.h"
+
+1623108816 source:c:\users\dione\documents\teste\listaencadeada\main.c
+	"tipos.h"
+
+1622299819 source:c:\users\dione\documents\teste\listaencadeada\consultar.c
+	"tipos.h"
+
+1622988728 source:c:\users\dione\documents\teste\listaencadeada\excluir.c
+	"tipos.h"
+
+1623109111 source:c:\users\dione\documents\teste\listaencadeada\listaordenada.c
+	"tipos.h"
+

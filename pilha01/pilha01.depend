@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1618269723 source:c:\users\dione\documents\teste\pilha01\inicializar.c
+	"tipos.h"
+
+1618875769 c:\users\dione\documents\teste\pilha01\tipos.h
+	<stdio.h>
+	<conio.h>
+
+1618269723 source:c:\users\dione\documents\teste\pilha01\push.c
+	"tipos.h"
+
+1618872547 source:c:\users\dione\documents\teste\pilha01\pop.c
+	"tipos.h"
+
+1618876140 source:c:\users\dione\documents\teste\pilha01\main.c
+	"tipos.h"
+
+1618873015 source:c:\users\dione\documents\teste\pilha01\apresentar.c
+	"tipos.h"
+
+1618876149 source:c:\users\dione\documents\teste\pilha01\inverterpilha.c
+	"tipos.h"
+
